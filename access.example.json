@@ -1,0 +1,13 @@
+[
+    {
+        "alias": "SideProject",
+        "remotePath": "/path/to/dist/",
+        "localPath": "/path/to/dist/",
+        "credentials": {
+            "host": "",
+            "port": 22,
+            "user": "anonymus",
+            "password": "password"
+        }
+    }
+]

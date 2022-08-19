@@ -1,0 +1,19 @@
+{
+  "name": "script-sftp",
+  "version": "1.0.0",
+  "description": "Script para subir archivos por sftp",
+  "main": "sftp.js",
+  "dependencies": {
+    "ssh2-sftp-client": "^9.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node sftp.js"
+  },
+  "keywords": [
+    "sftp",
+    "bot"
+  ],
+  "author": "JReyes",
+  "license": "ISC"
+}
